@@ -4,7 +4,7 @@ Français:
 
 Version optimisé du LegacyFuel:
 
-- Texte en 3D remplacées par des Notifications.
+- Texte en 3D remplacés par des notifications.
 - Compatible avec le speedometer 'Enhanced-HUD' (https://forum.cfx.re/t/release-enhanced-hud/634217).
 - Consomation d'essence réduite.
 - Prix du plein à $50 (je suis Français, comprenez pourquoi j'ai baissé les prix).
@@ -19,7 +19,7 @@ English: (translate.google.com)
 
 Optimized version of LegacyFuel:
 
-- 3D text replaced by Notifications.
+- 3D text replaced by notifications.
 - Compatible with the speedometer 'Enhanced-HUD' (https://forum.cfx.re/t/release-enhanced-hud/634217).
 - Reduced fuel consumption.
 - ll price at $50 (I'm French, understand why I lowered prices).
