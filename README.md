@@ -1,6 +1,7 @@
 # New-LegacyFuel
 
 Français: 
+
 Version optimisé du LegacyFuel:
 
 - Texte en 3D remplacées par des Notifications.
@@ -15,6 +16,7 @@ Crédit ->>> LegacyFuel de base (https://github.com/InZidiuZ/LegacyFuel (ça peu
 # _________________________________________________________________
 
 English: (translate.google.com)
+
 Optimized version of LegacyFuel:
 
 3D text replaced by Notifications.
