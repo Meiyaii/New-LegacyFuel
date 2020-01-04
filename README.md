@@ -11,7 +11,7 @@ Version optimisé du LegacyFuel:
 
 Téléchargement ->>> Attendez wesh...
 
-Preview ->>> https://streamable.com/z6r0b
+Preview ->>> https://streamable.com/z6r0b (Baissez le son)
 
 Crédit ->>> LegacyFuel de base (https://github.com/InZidiuZ/LegacyFuel (ça peux vous être utile pour la configuration))
 
@@ -28,6 +28,6 @@ Optimized version of LegacyFuel:
 
 Download ->>> Wait wesh ...
 
-Preview ->>> https://streamable.com/z6r0b
+Preview ->>> https://streamable.com/z6r0b (Lower the sound)
 
 Credit ->>> Basic LegacyFuel (https://github.com/InZidiuZ/LegacyFuel (it can be useful for the configuration))
