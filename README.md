@@ -9,4 +9,4 @@ Version optimisé du LegacyFuel:
 
 Téléchargement ->>> Attendez wesh...
 
-Crédit ->>> LegacyFuel de base (https://github.com/InZidiuZ/LegacyFuel)
+Crédit ->>> LegacyFuel de base (https://github.com/InZidiuZ/LegacyFuel (ça peux vous être utile pour la configuration))
