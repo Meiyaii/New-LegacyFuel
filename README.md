@@ -7,4 +7,6 @@ Version optimisé du LegacyFuel:
 - Consomation d'essence réduite.
 - Prix du plein à $50 (je suis Français, comprenez pourquoi j'ai baissé les prix).
 
+Téléchargement ->>> Attendez wesh...
+
 Crédit ->>> LegacyFuel de base (https://github.com/InZidiuZ/LegacyFuel)
