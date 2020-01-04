@@ -22,7 +22,7 @@ Optimized version of LegacyFuel:
 - 3D text replaced by Notifications.
 - Compatible with the speedometer 'Enhanced-HUD' (https://forum.cfx.re/t/release-enhanced-hud/634217).
 - Reduced fuel consumption.
-- ll price at $ 50 (I'm French, understand why I lowered prices).
+- ll price at $50 (I'm French, understand why I lowered prices).
 
 Download ->>> Wait wesh ...
 
