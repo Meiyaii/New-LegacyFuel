@@ -11,6 +11,8 @@ Version optimisé du LegacyFuel:
 
 Téléchargement ->>> Attendez wesh...
 
+Preview ->>> https://streamable.com/z6r0b
+
 Crédit ->>> LegacyFuel de base (https://github.com/InZidiuZ/LegacyFuel (ça peux vous être utile pour la configuration))
 
 # _________________________________________________________________
@@ -25,5 +27,7 @@ Optimized version of LegacyFuel:
 - ll price at $50 (I'm French, understand why I lowered prices).
 
 Download ->>> Wait wesh ...
+
+Preview ->>> https://streamable.com/z6r0b
 
 Credit ->>> Basic LegacyFuel (https://github.com/InZidiuZ/LegacyFuel (it can be useful for the configuration))
