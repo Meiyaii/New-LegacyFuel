@@ -4,6 +4,7 @@ Français:
 
 Version optimisé du LegacyFuel:
 
+- Recommandé pour ESX
 - Texte en 3D remplacés par des notifications.
 - Compatible avec le speedometer 'Enhanced-HUD' (https://forum.cfx.re/t/release-enhanced-hud/634217).
 - Consomation d'essence réduite.
@@ -21,6 +22,7 @@ English: (translate.google.com)
 
 Optimized version of LegacyFuel:
 
+- Recommended for ESX
 - 3D text replaced by notifications.
 - Compatible with 'Enhanced-HUD' speedometer (https://forum.cfx.re/t/release-enhanced-hud/634217).
 - Reduced fuel consumption.
