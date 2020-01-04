@@ -10,7 +10,7 @@ Version optimisé du LegacyFuel:
 - Consomation d'essence réduite.
 - Prix du plein à $50 (je suis Français, comprenez pourquoi j'ai baissé les prix).
 
-Téléchargement ->>> Attendez wesh...
+Téléchargement ->>> https://github.com/GarfieldeuhV1/New-LegacyFuel/releases/download/v1.0-Alpha/New-LegacyFuel.zip
 
 Preview ->>> https://streamable.com/z6r0b (Baissez le son)
 
@@ -28,7 +28,7 @@ Optimized version of LegacyFuel:
 - Reduced fuel consumption.
 - ll price at $50 (I'm French, understand why I lowered prices).
 
-Download ->>> Wait wesh ...
+Download ->>> https://github.com/GarfieldeuhV1/New-LegacyFuel/releases/download/v1.0-Alpha/New-LegacyFuel.zip
 
 Preview ->>> https://streamable.com/z6r0b (Lower the sound)
 
